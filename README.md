@@ -1,13 +1,15 @@
-## <div align="center">Recent Master of Physics graduate with an interest in software development.</div> 
+## <div align="center">Recent Master of Physics graduate with an interest in software development</div> 
+##### <div align="center">Work in progress...</div> 
+
 
 <img src="/Content/mudkip.gif" align="right" width="200" />
 
 <br/> 
 
-- **Research project**: Accuracy of the MSFD shipping frequencies in Arctic waters
-- [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf)
-- x
-- x
+- **Research project**: Accuracy of the MSFD shipping frequency bands in Arctic waters 🌊
+- [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf) | [Journal Article](/Content/Blondel_etal_UACE2025_v1.pdf) 🔜
+- 
+- 
 
 <br/>
 
