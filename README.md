@@ -1,28 +1,23 @@
-# Welcome to my GitHub! !(mudkip)[mudkip.gif]
+## <div align="center">Recent Master of Physics graduate with an interest in software development.</div> 
 
-Recent Master of Physics graduate with an interest in software development.
-
-</div>  
-
-### <div align="center">Recent Master of Physics graduate with an interest in software development.</div> 
-
-![mudkip](/Content\mudkip.gif)
+<img src="/Content/mudkip.gif" align="right" width="200" />
 
 <br/> 
 
-- 🔭 I'm mostly int
-
-
-- ⚡ Fun fact: I use ta  
-
+- **Research project**: Accuracy of the MSFD shipping frequencies in Arctic waters
+- ⚡ 
+- x
+- x
 
 <br/>
+
+
 
 ## Compuational physics 🪐
 - [Simulating fluid behaviour](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Multi-body problems](...)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-## Learning new languages 🌱
+## Languages I am currently learning 🌱
 - [Multi-body problems](...) <img src="/Content/SAS_logo.png" width=4% height=4%>
 -
 
