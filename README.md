@@ -1,5 +1,4 @@
-# Work in progress...
-
+# Work in progress... ![mudkip](pokemon_mudkip.gif)
 
 ## Compuational physics 🪐
 - [Simulating fluid behaviour](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
