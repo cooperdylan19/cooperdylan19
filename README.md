@@ -5,7 +5,7 @@
 <br/> 
 
 - **Research project**: Accuracy of the MSFD shipping frequencies in Arctic waters
-- ⚡ 
+- [UACE2025 Conference Paper](Blondel_etal_UACE2025_v1.pdf)
 - x
 - x
 
