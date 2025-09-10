@@ -6,7 +6,7 @@
 - [Multi-body problems](...)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ## Learning new languages
-- ![ccc](
+- ![ccc](SasLogo.png)
 -
 
 ## Personal projects
