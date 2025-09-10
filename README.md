@@ -16,8 +16,9 @@
 
 
 ## Compuational physics 🪐
-- [Simulating fluid behaviour](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Multi-body problems](...)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Languages I am currently learning 🌱
 - [Multi-body problems](...) <img src="/Content/SAS_logo.png" width=4% height=4%>
