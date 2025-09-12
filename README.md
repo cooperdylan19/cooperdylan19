@@ -7,13 +7,9 @@
 <br/> 
 
 - **Research project**: Accuracy of the MSFD shipping frequency bands in Arctic waters 🌊
-- [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf) | [Journal Article](/Content/Blondel_etal_UACE2025_v1.pdf) ⏳
+  - [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf) | [Journal Article](/Content/Blondel_etal_UACE2025_v1.pdf) ⏳
 - Projects labelled 🔜 are either in progress, or awaiting permission to be made public 🙂
 - **Additional projects**: Nelder-Mead algorithm, box-counting method to determine fractal dimensions, shooting method to determine transition energies for muonic atoms, Random Matrix Theory and the Wigner Surmise, among many others ⭐
-
-<br/>
-
-
 
 ## Compuational physics 🪐
 - [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
