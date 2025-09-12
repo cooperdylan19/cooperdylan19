@@ -1,8 +1,12 @@
 ## <div align="center">Recent Master of Physics graduate with an interest in software development</div> 
-##### <div align="center">Work in progress...</div> 
+##### <div align="center">Work in progress... <img src="https://komarev.com/ghpvc/?username=cooperdylan19&style=for-the-badge"> </div> 
 
 
 <img src="/Content/mudkip.gif" align="right" width="200" />
+
+
+[GitHub Profile Views Counter]: https://github.com/cooperdylan/github-profile-views-counter
+
 
 <br/> 
 
@@ -24,4 +28,3 @@
 
   ## Languages I am currently learning 🌱
 - <img src="/Content/SAS_logo.png" width=6% height=6%> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
