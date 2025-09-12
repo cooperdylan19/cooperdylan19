@@ -1,12 +1,8 @@
 ## <div align="center">Recent Master of Physics graduate with an interest in software development</div> 
-##### <div align="center">Work in progress... <img src="https://komarev.com/ghpvc/?username=cooperdylan19&style=for-the-badge"> </div> 
+##### <div align="center">Work in progress... <img src="https://komarev.com/ghpvc/?username=cooperdylan19&style=plastic"> </div> 
 
 
 <img src="/Content/mudkip.gif" align="right" width="200" />
-
-
-[GitHub Profile Views Counter]: https://github.com/cooperdylan/github-profile-views-counter
-
 
 <br/> 
 
