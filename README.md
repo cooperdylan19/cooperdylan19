@@ -16,9 +16,11 @@
 
 
 ## Compuational physics 🪐
-- [Multi-body problems](...)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="/Content/Maple_logo.png" width=8% height=8%>
+- [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)
+
 
 ## Languages I am currently learning 🌱
 - [Multi-body problems](...) <img src="/Content/SAS_logo.png" width=4% height=4%>
