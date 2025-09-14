@@ -16,7 +16,7 @@
 - [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Visualisation in <img src="/Content/Maple_logo.png" width=8% height=8%>
 - [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Using Planck's law to derive Wien's law](https://github.com/cooperdylan19/wiens-law) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-- [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/wiens-law) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/habitable-exoplanets) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 - [Modelling N-body planetary systems](https://github.com/cooperdylan19/) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 
