@@ -12,11 +12,11 @@
 - **Additional projects**: Nelder-Mead algorithm, box-counting method to determine fractal dimensions, shooting method to determine transition energies for muonic atoms, Random Matrix Theory and the Wigner Surmise, among many others ⭐
 
 ## Compuational physics 🪐
-- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(74%)**
+- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(76%)**
 - [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in <img src="/Content/Maple_logo.png" width=6% height=6%> **(70%)**
 - [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
 - [Using Planck's law to derive Wien's law](https://github.com/cooperdylan19/wiens-law) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
-- [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/habitable-exoplanets) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) **(76%)**
+- [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/habitable-exoplanets) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) **(75%)**
 - [Modelling N-body planetary systems](https://github.com/cooperdylan19/) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(85%)**
 
 
