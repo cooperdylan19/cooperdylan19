@@ -24,7 +24,7 @@
 
 
 ## Personal projects 🎳
-- [Wii Bowling Power Rankings](...) 🔜  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- [Wii Bowling Power Rankings](...) 🔜  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/MS_Excel-darkgreen)
 - [Pricing analysis](...) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
   ## Languages I am currently learning 🌱
