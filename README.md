@@ -12,7 +12,7 @@
 - **Additional projects**: Nelder-Mead algorithm, box-counting method to determine fractal dimensions, shooting method to determine transition energies for muonic atoms, Random Matrix Theory and the Wigner Surmise, among many others ⭐
 
 ## Compuational physics 🪐
-- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(75%)**
+- [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) <div dir="rtl">**(75%)**</div>
 - [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Visualisation in <img src="/Content/Maple_logo.png" width=8% height=8%> **(70%)**
 - [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(75%)**
 - [Using Planck's law to derive Wien's law](https://github.com/cooperdylan19/wiens-law) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
