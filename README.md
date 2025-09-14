@@ -1,5 +1,5 @@
 ## <div align="center">Recent Master of Physics graduate with an interest in software development</div> 
-##### <div align="center">Work in progress... <img src="https://komarev.com/ghpvc/?username=cooperdylan19&style=plastic"> </div> 
+##### <div align="center"> <img src="https://komarev.com/ghpvc/?username=cooperdylan19&style=plastic"> </div> 
 
 
 <img src="/Content/mudkip.gif" align="right" width="200" />
