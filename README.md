@@ -11,6 +11,7 @@
 - Projects labelled 🔜 are either in progress, or awaiting permission to be made public 🙂
 - **Additional projects**: Nelder-Mead algorithm, box-counting method to determine fractal dimensions, shooting method to determine transition energies for muonic atoms, Random Matrix Theory and the Wigner Surmise, among many others ⭐
 
+
 ## Compuational physics 🪐
 - [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(76%)**
 - [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in <img src="/Content/Maple_logo.png" width=6% height=6%> **(70%)**
@@ -20,12 +21,17 @@
 - [Modelling N-body planetary systems](https://github.com/cooperdylan19/) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(85%)**
 
 
-
-
-
 ## Personal projects 🎳
+- [Dataset manipulation in SAS](https://github.com/cooperdylan19/introductory-SAS) <img src="/Content/SAS_logo.png" width=4% height=4%>
+- [Removing metadata from a PDF](https://github.com/cooperdylan19/remove-active-ingredients-pdf) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Wii Bowling Power Rankings](...) 🔜  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/MS_Excel-darkgreen)
 - [Pricing analysis](...) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-  ## Languages I am currently learning 🌱
-- <img src="/Content/SAS_logo.png" width=6% height=6%> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Summary 📍
+
+#### Languages I am proficient in 💡 &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-darkblue) <img src="/Content/Maple_logo.png" width=6% height=6%> <img src="/Content/SAS_logo.png" width=4% height=4%> ![MATLAB](https://img.shields.io/badge/MATLAB-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+#### Languages I am currently learning 🌱 &nbsp;&nbsp;&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### IDEs 📖 &nbsp;&nbsp;&nbsp; ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
