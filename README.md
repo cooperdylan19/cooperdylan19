@@ -14,7 +14,7 @@
 
 ## Compuational physics 🪐
 - [Shock wave profiles assuming Eulerian dynamics](https://github.com/cooperdylan19/fluid-solver)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(76%)**
-- [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in <img src="/Content/Maple_logo.png" width=6% height=6%> **(70%)**
+- [Radiative transfer using Monte Carlo methods](https://github.com/cooperdylan19/radiative-transfer)  ![C](https://img.shields.io/badge/C-darkblue) Visualisation in <img src="/Content/Maple_logo.png" width=7% height=7%> **(70%)**
 - [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
 - [Using Planck's law to derive Wien's law](https://github.com/cooperdylan19/wiens-law) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
 - [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/habitable-exoplanets) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) **(75%)**
@@ -30,7 +30,7 @@
 
 ## Summary 📍
 
-#### Languages I am proficient in 💡 &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-darkblue) <img src="/Content/Maple_logo.png" width=6% height=6%> <img src="/Content/SAS_logo.png" width=4% height=4%> ![MATLAB](https://img.shields.io/badge/MATLAB-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+#### Languages I am proficient in 💡 &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-darkblue) <img src="/Content/Maple_logo.png" width=7% height=7%> <img src="/Content/SAS_logo.png" width=4% height=4%> ![MATLAB](https://img.shields.io/badge/MATLAB-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 #### Languages I am currently learning 🌱 &nbsp;&nbsp;&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
