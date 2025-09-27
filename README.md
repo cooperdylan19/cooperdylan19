@@ -18,14 +18,14 @@
 - [Numerical Integration of Bessel Functions: finding the diffraction limit of a telescope](https://github.com/cooperdylan19/airy-disk) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
 - [Using Planck's law to derive Wien's law](https://github.com/cooperdylan19/wiens-law) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(72%)**
 - [Habitable exoplanets from the NASA database](https://github.com/cooperdylan19/habitable-exoplanets) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) in ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) **(75%)**
-- [Modelling N-body planetary systems](https://github.com/cooperdylan19/) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) **(85%)**
 
 
 ## Personal projects 🎳
 - [Introduction to SAS](https://github.com/cooperdylan19/introductory-SAS) and [its applications in statistical analysis](https://github.com/cooperdylan19/statistics-in-SAS) <img src="/Content/SAS_logo.png" width=5% height=5%>
+- [Machine Learning: TensorFlow and PyTorch](https://github.com/cooperdylan19/PyTorch-TensorFlow) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Removing metadata from a PDF](https://github.com/cooperdylan19/remove-active-ingredients-pdf) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Wii Bowling Power Rankings](...) 🔜  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/MS_Excel-darkgreen)
-- [Pricing analysis](...) 🔜 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 
 
 ## Summary 📍
