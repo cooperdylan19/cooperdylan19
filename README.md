@@ -21,7 +21,7 @@
 
 ## Personal projects 🎳
 - [Introduction to SAS](https://github.com/cooperdylan19/introductory-SAS) and [its applications in statistical analysis](https://github.com/cooperdylan19/statistics-in-SAS) <img src="/Content/SAS_logo.png" width=5% height=5%>
-- [Machine Learning: TensorFlow and PyTorch](https://github.com/cooperdylan19/PyTorch-TensorFlow) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- [Machine Learning: TensorFlow and Keras](https://github.com/cooperdylan19/PyTorch-TensorFlow) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Removing metadata from a PDF](https://github.com/cooperdylan19/remove-active-ingredients-pdf) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Wii Bowling Power Rankings](...) 🔜  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/MS_Excel-darkgreen)
 
