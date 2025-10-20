@@ -20,7 +20,7 @@
 
 
 ## Personal projects 🎳
-- [Using GBMs to predict medical insurance premiums](https://github.com/cooperdylan19/GBMs-in-insurance)   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- [Using GBMs to predict medical insurance premiums](https://github.com/cooperdylan19/GBMs-for-insurance)   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 - [Introduction to SAS](https://github.com/cooperdylan19/introductory-SAS) and [its applications in statistical analysis](https://github.com/cooperdylan19/statistics-in-SAS) <img src="/Content/SAS_logo.png" width=5% height=5%>
 - [Machine Learning: TensorFlow and Keras](https://github.com/cooperdylan19/PyTorch-TensorFlow) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Removing metadata from a PDF](https://github.com/cooperdylan19/remove-active-ingredients-pdf) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
