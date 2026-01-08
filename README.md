@@ -30,8 +30,6 @@
 
 ## Summary 📍
 
-#### Languages I am proficient in 💡 &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-darkblue) <img src="/Content/Maple_logo.png" width=7% height=7%> <img src="/Content/SAS_logo.png" width=4% height=4%> ![MATLAB](https://img.shields.io/badge/MATLAB-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-
-#### Languages I am currently learning 🌱 &nbsp;&nbsp;&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+#### Languages I am proficient in 💡 &nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-darkblue) <img src="/Content/Maple_logo.png" width=7% height=7%> <img src="/Content/SAS_logo.png" width=4% height=4%> ![MATLAB](https://img.shields.io/badge/MATLAB-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### IDEs 📖 &nbsp;&nbsp;&nbsp; ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
