@@ -7,7 +7,7 @@
 <br/> 
 
 - **Research project**: Accuracy of the MSFD shipping frequency bands in Arctic waters 🌊
-  - [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf) | [Journal Article](/Content/Blondel_etal_UACE2025_v1.pdf) ⏳
+  - [UACE2025 Conference Paper](/Content/Blondel_etal_UACE2025_v1.pdf) | [Journal Article](https://rdcu.be/eYf5P)
 - **Additional projects**: Nelder-Mead algorithm, box-counting method to determine fractal dimensions, shooting method to determine transition energies for muonic atoms, Random Matrix Theory and the Wigner Surmise, among many others ⭐
 
 
